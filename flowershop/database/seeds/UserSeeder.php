@@ -15,7 +15,9 @@ class UserSeeder extends Seeder
          DB::table('users')->insert([
             'name' => Str::random(30),
             'secure_id' => Str::random(30),
-            'picture_id' => '1',            
+            'card_id'=>'1',
+            'cart_id'=>'1',
+            'order_id'=>'1',
             'email' => Str::random(40),
             'address' => Str::random(60),
             'email_verified_at'=>$now,
