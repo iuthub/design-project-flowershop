@@ -4,9 +4,7 @@ Find `ip_design_project.pdf` file in this folder, and refer to all the instructi
 
 You have to submit your project into this repository before 05.05.2019 (midnight).
 
-================================================================================================
-
-
+==============================================================================
 <h1 style="text-align:center">FLovers</h1>
 <table>
 <tr><th>ID:</th>                        <th>NAME:</th>                <th>POSITIONS:</th></tr>
@@ -19,8 +17,6 @@ You have to submit your project into this repository before 05.05.2019 (midnight
 
 </table>
 <span>Link to Our WEB-SITE https://f-lovers.000webhostapp.com/<span>
-
-
-================================================================================================
+==============================================================================
  
 
