@@ -6,6 +6,19 @@ use App\User;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/cart', function () {
+    return view('cart');
+});
+Route::get('/checkout', function () {
+    return view('checkout');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
 Route::get('admin', function () {
     return view('admin.index');
 });

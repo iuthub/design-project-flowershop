@@ -21,6 +21,7 @@ class ProductSeeder extends Seeder
             'like_id'=>'1',
             'rate_id'=>'1',
             'picture_id'=>'1',
+            'sub_sub_category_id'=>'1',
             'name' => Str::random(30),
             'detailed_info' => Str::random(80)
             ]);

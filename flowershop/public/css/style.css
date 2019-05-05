@@ -1851,8 +1851,8 @@ img {
   display: inline;
   float: left;
   position: relative;
-  width: 100%;
-   
+  width: 70%;
+    margin-left: 15%;
   
 }
 #aa-catg-head-banner .aa-catg-head-banner-area {
@@ -2506,7 +2506,7 @@ img {
   display: block; 
 }
 #checkout .checkout-area .checkout-left .panel-group .aa-checkout-coupon .aa-coupon-code {
-  border: none;
+  border: 1px solid #e5e5e5;
   color: #505050;
   font-size: 14px;
   font-weight: 700;
@@ -3193,7 +3193,7 @@ img {
   border: none !important;
 }
 .aa-blog-details #respond {
-  border: none;
+  border: 1px solid #ccc;
   padding: 20px;
   display: inline;
   float: left;
@@ -3208,7 +3208,7 @@ img {
   font-size: 15px;
 }
 .aa-blog-details #respond .required {
-  color: white;
+  color: red;
 }
 .aa-blog-details #respond label {
   display: block;

@@ -24,6 +24,7 @@ class Product extends Migration
             $table->unsignedBigInteger('like_id');
             $table->unsignedBigInteger('rate_id');
             $table->unsignedBigInteger('picture_id');
+            $table->unsignedBigInteger('sub_sub_category_id');
             $table->string('name');
             $table->text('detailed_info')->nullable();
             $table->timestamps();
